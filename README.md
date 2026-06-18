@@ -15,7 +15,7 @@
 <!-- ====================== ABOUT ====================== -->
 ## 🚀 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 
 - 🎓 &nbsp;Computer Science student at **Babeș-Bolyai University** (UBB)
 - 🤖 &nbsp;Going deep on **machine learning** and **AI systems**
@@ -80,41 +80,10 @@
 ---
 
 <!-- ====================== STATS ====================== -->
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Sergiu's GitHub Stats" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sergiu210106&theme=dracula&hide_border=true" alt="Sergiu's Streak Stats" height="170" />
-</p>
-
-<!-- Contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergiu210106&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Sergiu's GitHub Stats" width="60%" />
 </p>
 
 ---
-
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sergiu210106&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="95%" />
-</p>
-
----
-
-<!-- ====================== SNAKE ANIMATION ====================== -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sergiu210106/sergiu210106/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Building things, breaking things, learning from both." 🚀</i>
-</p>
