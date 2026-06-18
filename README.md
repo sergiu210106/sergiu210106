@@ -1,34 +1,110 @@
-# 👋 Hi, I'm Sergiu!
+<!-- ====================== HEADER ====================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sergiu+%F0%9F%91%8B;CS+Student+%40+Babe%C8%99-Bolyai+University;AI+%2F+ML+Engineer+in+the+making;...with+a+lurking+Cyber+passion+%F0%9F%95%B5%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
-Welcome to my GitHub profile! I'm a developer passionate about building clean, efficient, and impactful projects. Explore my repositories to see what I've been working on lately.
+<p align="center">
+  <a href="https://linkedin.com/in/sergiu-tuduce">
+    <img src="https://img.shields.io/badge/LinkedIn-Sergiu_Tuduce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sergiu210106&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sergiu210106?style=for-the-badge&color=FF79C6&labelColor=282A36&logo=github" alt="Followers" />
+</p>
 
----
-
-## My Activity & Stats
-
-### 🔥 Commit & Activity Streaks
-[![Sergiu's Streak Stats](https://github-readme-streak-stats.vercel.app/?user=sergiu210106&theme=dracula&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-### ⚡ GitHub Overview
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true" alt="Sergiu's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" />
+<p align="center">
+  I build clean, efficient, and impactful projects — currently going deep on
+  <b>machine learning</b> and <b>AI systems security</b>.<br/>
+  Explore the repos below to see what I've been hacking on lately.
 </p>
 
 ---
 
-## My Toolbox
+<!-- ====================== TECH STACK ====================== -->
+## 🧰 My Toolbox
 
-Here are some of the technologies and tools I work with:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, C/C++ |
-| **Frameworks/Tools** | FastAPI, LangChain, LangGraph, React, Git, GitHub, VS Code |
-| **Learning Currently** | AI and Machine Learning with a lurking Cyber Passion |
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langgraph&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend / Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Currently Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Adversarial_ML-FF79C6?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Security-50FA7B?style=flat-square&logo=hackthebox&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Connect with Me
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Analytics
 
-* 💼 **LinkedIn:** [Sergiu Tuduce](https://linkedin.com/in/sergiu-tuduce)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Sergiu's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sergiu210106&theme=dracula&hide_border=true" alt="Sergiu's Streak Stats" />
+</p>
+
+<!-- Contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergiu210106&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
+</p>
+
+---
+
+<!-- ====================== TROPHIES ====================== -->
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sergiu210106&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="95%" />
+</p>
+
+---
+
+<!-- ====================== SNAKE ANIMATION ====================== -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sergiu210106/sergiu210106/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building things, breaking things, learning from both." 🚀</i>
+</p>
