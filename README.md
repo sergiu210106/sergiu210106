@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sergiu_Tuduce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sergiu210106&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sergiu210106?style=for-the-badge&color=FF79C6&labelColor=282A36&logo=github" alt="Followers" />
 </p>
 
 <p align="center">
@@ -45,6 +44,7 @@
     <td align="center"><b>Backend / Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
   </tr>
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=sergiu210106&theme=dracula&hide_border=true" alt="Sergiu's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sergiu210106&theme=dracula&hide_border=true" alt="Sergiu's Streak Stats" />
 </p>
 
 <!-- Contribution activity graph -->
