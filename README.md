@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a developer passionate about building clean, e
 
 ## My Activity & Stats
 
-### Commit & Activity Streaks
-[![Sergiu's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sergiu210106&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+### 🔥 Commit & Activity Streaks
+[![Sergiu's Streak Stats](https://github-readme-streak-stats.vercel.app/?user=sergiu210106&theme=dracula&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### ⚡ GitHub Overview
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true" alt="Sergiu's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
