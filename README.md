@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sergiu+%F0%9F%91%8B;CS+Student+%40+Babe%C8%99-Bolyai+University;AI+%2F+ML+Engineer+in+the+making;...with+a+lurking+Cyber+passion+%F0%9F%95%B5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=BD93F9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sergiu+%F0%9F%91%8B;CS+Student+%40+Babe%C8%99-Bolyai+University;AI+%2F+ML+Engineer+in+the+making;...with+a+lurking+Cyber+passion+%F0%9F%95%B5%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,11 +10,22 @@
   <img src="https://komarev.com/ghpvc/?username=sergiu210106&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center">
-  I build clean, efficient, and impactful projects — currently going deep on
-  <b>machine learning</b> and <b>AI systems security</b>.<br/>
-  Explore the repos below to see what I've been hacking on lately.
-</p>
+---
+
+<!-- ====================== ABOUT ====================== -->
+## 🚀 About Me
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+
+- 🎓 &nbsp;Computer Science student at **Babeș-Bolyai University** (UBB)
+- 🤖 &nbsp;Going deep on **machine learning** and **AI systems**
+- 🔐 &nbsp;Exploring **AI security** & **adversarial ML**
+- 🧩 &nbsp;I build **clean, efficient, and impactful** projects
+- 🌱 &nbsp;Currently learning by breaking things and putting them back together
+- 💬 &nbsp;Ask me about Python, LangChain, or anything LLM-related
+- 📫 &nbsp;Reach me on [**LinkedIn**](https://linkedin.com/in/sergiu-tuduce)
+
+<br clear="right" />
 
 ---
 
@@ -72,12 +83,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Sergiu's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu210106&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiu210106&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Sergiu's GitHub Stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sergiu210106&theme=dracula&hide_border=true" alt="Sergiu's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sergiu210106&theme=dracula&hide_border=true" alt="Sergiu's Streak Stats" height="170" />
 </p>
 
 <!-- Contribution activity graph -->
