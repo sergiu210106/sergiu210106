@@ -4,12 +4,10 @@ Welcome to my GitHub profile! I'm a developer passionate about building clean, e
 
 ---
 
-## 📊 My Activity & Stats
+## My Activity & Stats
 
-### 📈 Contribution Graph
-Here is my activity axis showing my commits, pushes, and pull requests over the last 30 days:
-
-[![Sergiu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiu210106&theme=react&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Commit & Activity Streaks
+[![Sergiu's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sergiu210106&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ### ⚡ GitHub Overview
 <p align="left">
@@ -27,14 +25,10 @@ Here are some of the technologies and tools I work with:
 | :--- | :--- |
 | **Languages** | Python, Java, C/C++ |
 | **Frameworks/Tools** | FastAPI, LangChain, LangGraph, React, Git, GitHub, VS Code |
-| **Learning Currently** | AI and Machine Learning with a lurking Cyber Passion|
+| **Learning Currently** | AI and Machine Learning with a lurking Cyber Passion |
 
 ---
 
 ## 📫 Connect with Me
 
-* 💼 **LinkedIn:** [Your Name](https://linkedin.com/in/sergiu-tuduce)
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+* 💼 **LinkedIn:** [Sergiu Tuduce](https://linkedin.com/in/sergiu-tuduce)
